@@ -1,5 +1,5 @@
 ## Hey! 👋
-Welcome to my GitHub. I'm an automation engineering student with experience in bioinformatics and single cell analysis. I also work on a few small web projects which you'll find here!
+Welcome to my GitHub. I'm an automation engineering student (MSAS) with experience in bioinformatics and single cell analysis. I also work on a few small web projects which you'll find here!
 
 🔗 [https://www.linkedin.com/in/peneeta/](https://www.linkedin.com/in/peneeta/)
 
